@@ -1,2 +1,2 @@
 # california-house-price-linear-regression
-Linear Regression from scratch to predict California house prices using Median Income, integrated with a Tkinter GUI.
+This project implements Linear Regression from scratch without using Scikit-Learn for training. The goal is to understand the mathematical foundations of cost functions, gradient computation, and optimization using Gradient Descent.
