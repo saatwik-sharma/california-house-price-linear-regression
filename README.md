@@ -115,10 +115,9 @@ This project strengthened my foundation in Machine Learning fundamentals.
 ## 🎓 Future Improvements
 
 - Extend to Multiple Linear Regression
-- Implement Feature Scaling
 - Add Regularization (L1/L2)
 - Deploy as a Web App
-- Add train-test split without Scikit-Learn
+- Add train-test split with Scikit-Learn
 
 ---
 
