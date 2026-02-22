@@ -66,24 +66,6 @@ These metrics help measure prediction accuracy and model performance.
 
 ---
 
-## 📁 Project Structure
-california-house-price-linear-regression/
-│
-├── dataset/
-│ └── housing.csv
-│
-├── screenshots/
-│ ├── cost_vs_iterations.png
-│ ├── linear_regression_fit.png
-│ └── gui_interface.png
-│
-├── CaliforniaHousePrediction.ipynb
-├── README.md
-└── requirements.txt
-
-
----
-
 ## 📈 Training Visualization
 
 ### 🔹 Cost vs Iterations
@@ -92,7 +74,7 @@ california-house-price-linear-regression/
 
 ### 🔹 Linear Regression Fit
 
-![Regression Fit](screenshots/LinearregFit.png)
+![Regression Fit](screenshots/LinearRegFit.png)
 
 ---
 
