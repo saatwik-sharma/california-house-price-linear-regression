@@ -21,6 +21,7 @@ In this project:
 - A simple GUI is built using Tkinter to make real-time predictions.
 
 The dataset used is the California Housing dataset.
+https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 ---
 
